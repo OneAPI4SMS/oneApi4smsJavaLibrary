@@ -50,8 +50,8 @@ public class OneApi4SmsResult {
 		* Get the username from the user... Get the password from the
 		* user...
 		*/
-		String username = "3";
-		String password = "fkdk893e8a9";
+		String username = "";
+		String password = "";
 
 		/**
 		 * Return the information.
