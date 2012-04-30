@@ -422,13 +422,13 @@ public class OneApi4SmsResult {
 
 
 	public static void main(String[] args) {
-		new OneApi4SmsResult().findAvailableAddress("USA", 568906, "","Florida");
-		new OneApi4SmsResult().addAddress("USA", 12052914070L);
-		new OneApi4SmsResult().setSubscribe("", "", 12052914070L, 12, "gfg");
+		new OneApi4SmsResult().findAvailableAddress("USA", 56832390633L, "","Florida");
+		new OneApi4SmsResult().addAddress("USA", 12052344070L);
+		new OneApi4SmsResult().setSubscribe("", "", 120234414070L, 12, "gfg");
 		new OneApi4SmsResult().viewSubscribe("");
-		new OneApi4SmsResult().deliveryStatus("071afe810d57b31703af5c810d1ae9ae", 17184756239L);
+		new OneApi4SmsResult().deliveryStatus("071af2342wrwer10d1ae9ae", 17184723439L);
 		new OneApi4SmsResult().allMessages("xml"); /**it may be json, csv or xml */
-		new OneApi4SmsResult().sendSms(12171821340L, "", "", "", 17182134033L);
+		new OneApi4SmsResult().sendSms(121723421340L, "", "", "", 171823423434L);
 
 	}
 }
